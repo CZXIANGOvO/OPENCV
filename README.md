@@ -1,5 +1,5 @@
 # OPENCV
-# 个人学习OPEN CV笔记分享
+# 个人学习OPEN CV笔记分享(持续更新~)
 笔记均在JUPYTER NOTEBOOK中打开，里面附有代码和讲解
 
 # 附录：
